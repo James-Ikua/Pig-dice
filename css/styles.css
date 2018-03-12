@@ -1,0 +1,19 @@
+.player-console {
+  display: none;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: magenta;
+}
+label {
+  color: red;
+}
+body {
+  background-image: url(..//images/img.jpeg);
+  /* background-repeat: no-repeat; */
+  background-size: 100%;
+}
+.jumbotron {
+  background: inherit;
+}
